@@ -1,8 +1,3 @@
-<h1 align="center">🏦 Data Bank SQL Case Study</h1>
-<p align="center">
-  <i>Part of the <a href="https://8weeksqlchallenge.com/">8 Week SQL Challenge</a></i><br>
-  <b>Case Study – Data Bank</b>
-</p>
 
 ---
 
